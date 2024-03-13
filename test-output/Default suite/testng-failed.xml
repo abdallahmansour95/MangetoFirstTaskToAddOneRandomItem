@@ -5,7 +5,7 @@
     <classes>
       <class name="javapackages.AddOneRandomItem">
         <methods>
-          <include name="addOneRandomItemTotheCart"/>
+          <include name="SignupProcess"/>
           <include name="mySetup"/>
         </methods>
       </class> <!-- javapackages.AddOneRandomItem -->
